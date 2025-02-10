@@ -9929,14 +9929,14 @@ blockquote {
   --bs-btn-bg: white;
   --bs-btn-border-color: transparent transparent transparent;
   --bs-btn-border-radius: .5rem;
-  --bs-btn-hover-color: black;
-  --bs-btn-hover-bg: rgba(255, 255, 255, 1.0);
+  --bs-btn-hover-color: white;
+  --bs-btn-hover-bg: rgb(36, 36, 36);
   --bs-btn-hover-border-color: #ffffff;
   --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
   --bs-btn-active-color: var(--bd-violet);
   --bs-btn-active-bg: #ffffff;
   --bs-btn-active-border-color: #ffffff;
-  transition: background-color 0.5s ease-in;
+  transition: background-color 0.2s ease-in;
 }
 
 .home .btn-bd-primary:hover {
